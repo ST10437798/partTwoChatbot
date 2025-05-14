@@ -30,10 +30,10 @@ This is a C# console application designed to provide users with information and 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone <https://github.com/ST>
     cd EnhancedCybersecurityChatbot
     ```
-    (Replace `<YOUR_REPOSITORY_URL>` with the actual URL of your GitHub repository.)
+    (Replace `<https://github.com/ST10437798>` with the actual URL of your GitHub repository.)
 
 2.  **Build the application:**
     ```bash
