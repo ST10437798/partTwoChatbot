@@ -30,7 +30,7 @@ This is a C# console application designed to provide users with information and 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <https://github.com/ST>
+    git clone <https://github.com/ST10437798/partTwoChatbot.git>
     cd EnhancedCybersecurityChatbot
     ```
     (Replace `<https://github.com/ST10437798>` with the actual URL of your GitHub repository.)
@@ -82,7 +82,7 @@ This project is licensed under the [MIT License](LICENSE) .
 
 ## Author
 
-* [Lisakhanya](https://github.com/ST10437798)
+* [Lisakhanya Notununu](https://github.com/ST10437798)
 
 ## Acknowledgments
 
